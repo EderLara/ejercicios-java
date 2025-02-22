@@ -16,6 +16,14 @@ public class CuentaBanco {
         return saldo;
     }
     
+    public static double hacerRetiro(){
+        Scanner scanner =new Scanner(System.in);
+        double valor = scanner.nextDouble();
+        scanner.nextLine();
+        // Todo yours
+        return valor;
+    }
+    
     // Método Main:
     public static void main(String[] args){
         String usuario = "Eder Lara T";
