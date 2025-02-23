@@ -45,7 +45,7 @@ Con la clase Vehiculo, Cliente y Vendedor, podemos registrar una venta. Esto lo 
 
 <h3> 6: </h3>
 <p>
-Por úñtimo, crearemos la clase Concesionario, donde realizaremos la gestion de los objetos de las clases anteriores, 
+Por último, crearemos la clase Concesionario, donde realizaremos la gestion de los objetos de las clases anteriores, 
 
 En el ejercicio propuesto se plantea la creacion de métodos que capturen por teclado los atributos de las clases involucradas.
 
