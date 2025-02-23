@@ -43,7 +43,7 @@ Con la clase Vehiculo, Cliente y Vendedor, podemos registrar una venta. Esto lo 
 <a href="https://github.com/EderLara/ejercicios-java/blob/main/concesionario/Venta.java">ver clase Venta</a><br>
 </p>
 
-<h3> 7: </h3>
+<h3> 6: </h3>
 <p>
 Por úñtimo, crearemos la clase Concesionario, donde realizaremos la gestion de los objetos de las clases anteriores, 
 
