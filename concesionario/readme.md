@@ -11,7 +11,7 @@ Un concesionario, necesita para su gestión de ventas, un sistema de informació
 <br>
 <p>
 <h3> 1: </h3>
-Para este ejercicio crearemos una clase abstracta Persona con los siguientes atributos de tipo String: (cedula, nombre, direccion,telefono) [ver clase persona](https://github.com/EderLara/ejercicios-java/blob/main/concesionario/Persona.java)
+Para este ejercicio crearemos una clase abstracta Persona con los siguientes atributos de tipo String: (cedula, nombre, direccion,telefono) <a href="https://github.com/EderLara/ejercicios-java/blob/main/concesionario/Persona.java">ver clase persona</a>
 </p>
 <h3> 2: </h3>
 Para este ejercicio crearemos una clase Persona con los siguientes atributos de tipo String: (cedula, nombre, direccion,telefono) [ver clase persona]("https://github.com/EderLara/ejercicios-java/blob/main/concesionario/Persona.java")
